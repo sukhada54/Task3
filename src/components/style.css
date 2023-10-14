@@ -1,0 +1,15 @@
+
+button{
+    width: 100px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.button1 , .arrayofcolors{
+    display: flex;
+    justify-content: center;
+}
+
+.outerdiv{
+    background-color: aquamarine;
+}
